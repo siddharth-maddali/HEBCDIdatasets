@@ -27,7 +27,7 @@ Contains the calculated bases of sampling vectors for each reconstruction (real-
 
 ### Notebooks
 Jupyter notebooks were used for the phase retrieval reconstructions and and a few subsequent computations for results seen in the manuscript. 
-Dependencies include Tensorflow 1.5 for the GPU code for the reconstruction code.
+Dependencies include Tensorflow 1.5 for the GPU reconstruction code.
 The notebooks are named correspondingly to the data files described above.
 
 ### Python scripts
