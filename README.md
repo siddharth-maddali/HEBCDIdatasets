@@ -1,8 +1,9 @@
-# Phys Rev X Manuscript XP10416: Supplementary material
+# ArXiv preprint [1903.11815](https://arxiv.org/abs/1903.11815): Supplementary material
 
-This repo contains the collected BCDI data and the processing scripts in the form of Jupyter notebooks.
+This repo contains the data analysis code in the form of Jupyter notebooks and conventional Python scripts.
 
 ## Data files
+Because of Github upload limits, the data sets are available at the publicly visible Google Drive folder [here](https://drive.google.com/drive/u/2/folders/1WAQJzSYZF3Tkfm431byNSIIciSTZ6Oyp).
 These are the BCDI data, after pre-processing, background reduction and removal of stray scattering. 
 They are in the `.mat` format, and can be opened in Matlab, Octave or Pyhon (using the `scipy.io` module).
 
